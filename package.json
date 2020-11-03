@@ -1,0 +1,19 @@
+{
+  "name": "coursera",
+  "version": "1.0.0",
+  "description": "\"Prueba de node js\"",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cristhian-Ortellado/BootstrapClass.git"
+  },
+  "author": "Cristhian Ortellado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cristhian-Ortellado/BootstrapClass/issues"
+  },
+  "homepage": "https://github.com/Cristhian-Ortellado/BootstrapClass#readme"
+}
